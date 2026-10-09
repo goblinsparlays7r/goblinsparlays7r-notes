@@ -1,6 +1,6 @@
-# Scratch — day 283
+# Reading — day 283
 
 - reviewed go notes
 - cleaned up a checklist
-- next: read docs
-- seed: 44179206
+- next: add examples
+- seed: 9339134e
