@@ -1,6 +1,6 @@
-# Todo — day 282
+# Drafts — day 282
 
-- reviewed sql notes
-- outlined a design
-- next: benchmark
-- seed: 67e6354b
+- reviewed go notes
+- cleaned up a design
+- next: read docs
+- seed: fa1e9cd0
