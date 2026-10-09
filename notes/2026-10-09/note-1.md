@@ -1,6 +1,6 @@
-# Log — day 281
+# Notes — day 281
 
-- reviewed python notes
-- cleaned up a module
-- next: write tests
-- seed: 2051945b
+- reviewed sql notes
+- refactored a script
+- next: benchmark
+- seed: ba8048fb
