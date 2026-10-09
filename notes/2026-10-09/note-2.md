@@ -1,6 +1,6 @@
 # Todo — day 282
 
-- reviewed python notes
-- outlined a script
+- reviewed sql notes
+- outlined a design
 - next: benchmark
-- seed: 4baa0975
+- seed: 67e6354b
