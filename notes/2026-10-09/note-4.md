@@ -1,6 +1,6 @@
 # Drafts — day 284
 
-- reviewed typescript notes
-- refactored a design
+- reviewed python notes
+- cleaned up a design
 - next: benchmark
-- seed: 41616234
+- seed: 83a392b9
